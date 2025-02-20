@@ -1,5 +1,3 @@
-## Amongfiish 🐟
+## amongfiish 🐟
 
-Canadian post-secondary student and occasional hobbyist developer.
-
-Home server administrator.
+Semi-regular.
